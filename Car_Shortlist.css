@@ -185,7 +185,6 @@ input {
 }  
 
 .float-child-2 {
-    display: inline-block;
     width: 85%;
     float: right;  
     position: absolute;
@@ -298,3 +297,4 @@ form ul li { display: inline-block }
     .services-container{
         grid-template-columns: repeat(auto-fit,minimax(254px,auto));
     }
+}
